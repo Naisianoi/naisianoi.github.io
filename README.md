@@ -19,7 +19,7 @@
 - [GitHub Profile](https://github.com/Naisianoi) - Explore my projects:
   - Image classification with neural networks in Python
   - Sentiment text analysis in Python
-  - Blog Website with CRUD functionality using Laravel, Nginx, Phpmyadmin, MySQL, HTML, CSS
+  - Blog Website with CRUD functionality, user authentication using Laravel, Nginx, Phpmyadmin, MySQL, HTML, CSS
   - AirBnb clone
   - Responsive Admin Dashboard with light and dark mode in HTML, CSS, JavaScript
   - Student Database Application for managing student enrollment and balances in Java.
