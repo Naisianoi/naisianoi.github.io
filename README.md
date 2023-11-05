@@ -1,9 +1,9 @@
 # naisianoi.github.io
 
-## 👋 Gladys Naisianoi | Full Stack Software Engineer
+## 👋 Naisianoi | Full Stack Software Engineer
 
 🎓 **Education:** 
-- Full Stack Software Engineer at ALX | Holberton School
+- Full Stack Software Engineer student at ALX | Holberton School
   (May 2022 - Present)
 - Bachelor of Science in Computer Technology from Jomo Kenyatta University of Agriculture and Technology (JKUAT), Class of 2020.
 
@@ -17,7 +17,7 @@
 - Servers: Apache, Nginx
 
 📝 **Notable Projects:**
-- [GitHub Profile](https://github.com/Naisianoi) - Explore my contributions to open-source projects, including:
+- [GitHub Profile](https://github.com/Naisianoi) - Explore my projects:
   - Image classification with neural networks in Python
   - Sentiment text analysis in Python
   - Blog Website with CRUD functionality using Laravel, Nginx, Phpmyadmin, MySQL, HTML, CSS
@@ -26,7 +26,7 @@
   - Student Database Application for managing student enrollment and balances in Java.
 
 💼 **Open to Collaborations:**
-- I'm an active contributor to open-source projects, and I'm always eager to collaborate and learn from others. Feel free to reach out for collaborative opportunities.
+- I'm an active contributor and always eager to collaborate and learn from others. Feel free to reach out for collaborative opportunities.
 
 📧 **Contact Me:**
 - LinkedIn: [linkedin.com/in/gladysnaisianoi](https://linkedin.com/in/gladysnaisianoi)
