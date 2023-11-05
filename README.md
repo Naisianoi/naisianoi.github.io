@@ -3,10 +3,9 @@
 ## 👋 Naisianoi | Full Stack Software Engineer
 
 🎓 **Education:** 
-- Full Stack Software Engineer student at ALX | Holberton School
-  (May 2022 - Present)
-- Bachelor of Science in Computer Technology from Jomo Kenyatta University of Agriculture and Technology (JKUAT), Class of 2020.
-
+- Full Stack Software Engineer
+- BSc. Computer Technology 
+  
 🚀 **Technical Skills:**
 - Languages: C, Python, PHP, HTML, CSS, Kotlin, JavaScript, Java
 - Frameworks: Laravel, Bootstrap
