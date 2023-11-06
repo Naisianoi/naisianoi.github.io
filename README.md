@@ -14,6 +14,8 @@
 - Operating Systems: Windows, Linux (Ubuntu)
 - Editors: Android Studio, Visual Studio Code, Notepad++, Sublime
 - Servers: Apache, Nginx
+- Technical Writing
+- Algorithms and Data Structures
 
 📝 **Notable Projects:**
 - [GitHub Profile](https://github.com/Naisianoi) - Explore my projects:
