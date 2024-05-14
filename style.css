@@ -1,0 +1,210 @@
+:root {
+    --primary-color: #a855f7;
+    --primary-color-dark: #9333ea;
+    --secondary-color: #ca8a04;
+    --text-dark: #1f2937;
+    --text-light: #6b7280;
+    --extra-light: #faf5ff;
+    --max-width: 1200px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    background: #ebeef1;
+}
+
+nav {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: var(--extra-light);
+    z-index: 99;
+}
+
+.nav__content {
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 1.5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav .logo a {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    transition: 0.3s;
+}
+
+nav .logo a:hover {
+    color: var(--primary-color-dark);
+}
+
+.section {
+    background-color: var(--extra-light);
+}
+
+.section__container {
+    min-height: 100vh;
+    max-width: var(max-width);
+    margin: auto;
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.subtitle {
+    letter-spacing: 2px;
+    color: var(--text-light);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 400;
+    line-height: 3rem;
+    color: var(--text-dark);
+    margin-bottom: 1rem;
+}
+
+.title span {
+    font-weight: 600;
+}
+
+.animated__text {
+    font-size: 2.5rem;
+    font-weight: 400;
+    min-width: 240px;
+}
+
+.animated__text span {
+    position: relative;
+}
+
+/*.animated__text span::before {
+    content: "Full Stack Software Engineer";
+    color: var(--primary-color-dark);
+    animation: words 20 infinite;
+}
+
+.animated__text span::after {
+    content: "";
+    position: absolute;
+    width: calc(100% + 8px)
+    height: 100%;
+    background-color: var(--primary-color-dark);
+    border-left: 2px solid var(--primary-color-dark);
+    right: -8px;
+    animation: cursor 0.8s infinite, typing 20s steps(14) infinite;
+}
+
+@keyframes cursor {
+    to {
+        border-left: 2px solid var(--primary-color-dark);
+    }
+}
+
+@keyframes words {
+    0%,20%{
+        content: "Full Stack Software Engineer";
+    }
+    21%,40%{
+        content: "Experienced ICT Officer";
+    }
+    41%,60%{
+        content: "Certified Internal Auditor";
+    }
+    61%,80%{
+        content: "Website Developer";
+    }
+    81%,100{
+        content: "Organic Farmer";
+    }
+}
+
+@keyframes typing {
+    10%,15%,30%,35%,50%,55%,70%,75%,90%,95%{
+        width: 0;
+    }
+    5%,20%,25%,40%,45%,60%,65%,80%,85%{
+        width: calc(100% + 8px);
+    }
+}*/
+
+.description {
+    line-height: 1.5rem;
+    color: var(--text-light);
+    margin-bottom: 2rem;
+}
+
+.action__btns {
+    /*display: flex;
+    gap: 1rem;*/
+}
+
+.action__btns button {
+    font-size: ,32px;
+    font-weight: 500;
+    padding: 20px;
+    margin: 30px;
+    width: 350px;
+    background: var(--extra-light);
+    border: none;
+    border-radius: 50px;
+    color: var(--primary-color);
+    cursor: pointer;
+    box-shadow: 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+                -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
+}
+
+button.portfolio {
+    color: var(--primary-color-dark);
+    box-shadow: inset 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+                inset -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
+}
+
+.image {
+    display: grid;
+    place-items: center;
+}
+
+.image img {
+    width: min(25rem, 90%);
+    border-radius: 100%;
+}
+
+@media (width < 750px) {
+    .section__container {
+        padding: 10rem 1rem 5rem 1rem;
+        text-align: center;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .image {
+        grid-area: 1/1/2/2;
+    }
+    
+    .action__btns {
+        margin: auto;
+    }
+}
