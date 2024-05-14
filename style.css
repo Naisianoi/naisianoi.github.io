@@ -112,6 +112,7 @@ nav .logo a:hover {
 .action__btns button {
     font-size: 1rem;
     font-weight: 500;
+    font-family: "DM Sans", sans-serif;
     padding: 20px;
     margin: 30px;
     width: 350px;
