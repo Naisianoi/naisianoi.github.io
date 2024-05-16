@@ -152,15 +152,10 @@ button.portfolio {
 
 @media (width < 750px) {
     .section__container {
-        padding: 8.2rem 1rem 5rem 1rem;
+        padding: 8rem 1rem 5rem 1rem;
         text-align: center;
         grid-template-columns: repeat(1, 1fr);
     }
-
-
-    .description {
-        padding: 2rem;
-    } 
     
     .image {
         grid-area: 1/1/2/2;
