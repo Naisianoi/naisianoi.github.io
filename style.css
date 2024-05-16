@@ -156,6 +156,10 @@ button.portfolio {
         text-align: center;
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .description {
+         padding: 20rem;
+    } 
     
     .image {
         grid-area: 1/1/2/2;
