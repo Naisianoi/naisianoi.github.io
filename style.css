@@ -159,8 +159,7 @@ button.portfolio {
     .section__container {
         padding: 8rem 1rem 5rem 1rem;
         text-align: center;
-        grid-template-columns: repeat(1, 1fr);
-        display: flex;
+        grid-template-columns: repeat(1, 1fr);    
     }
     
     .image {
@@ -169,5 +168,6 @@ button.portfolio {
     
     .action__btns {
         margin: auto;
+        display: flex;
     }
 }
