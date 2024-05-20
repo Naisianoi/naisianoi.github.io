@@ -168,6 +168,6 @@ button.portfolio {
     
     .action__btns {
         margin: auto;
-        display: flex;
+        flex-direction: column;
     }
 }
