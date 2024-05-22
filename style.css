@@ -61,7 +61,6 @@ nav {
 
 nav .nav__content {
     padding: 0.8rem 0.8rem;
-    display: flex;
     flex-wrap: nowrap;
     align-items: center;
     justify-content: space-between;
