@@ -123,14 +123,14 @@ nav .logo i {
     background: var(--extra-light);
     border: none;
     border-radius: 50px;
-    color: var(--primary-color);
+    color: #0077B5;
     cursor: pointer;
     box-shadow: 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
                 -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
 }
 
 button.portfolio {
-    color: var(--primary-color-dark);
+    color: #4078c0;
     box-shadow: inset 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
                 inset -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
 }
