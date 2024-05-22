@@ -53,6 +53,7 @@ nav .logo a:hover {
 }*/
 nav .nav__content {
     padding: 0.8rem 0.8rem;
+    background: transparent;
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
