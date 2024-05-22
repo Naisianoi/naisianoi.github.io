@@ -51,6 +51,13 @@ nav .logo a {
 nav .logo a:hover {
     color: var(--primary-color-dark);
 }*/
+.nav__content {
+    padding: 40px 0 30px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
 
 .logo i {
     height: 55px;
