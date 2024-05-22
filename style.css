@@ -30,7 +30,6 @@ nav {
     top: 0;
     left: 0;
     background-color: var(--extra-light);
-    z-index: 99;
 }
 
 /*.nav__content {
