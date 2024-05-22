@@ -21,6 +21,7 @@ a {
 body{
     font-family: "Poppins", sans-serif;
     background: #ebeef1;
+    background-size: cover;
 }
 
 /*nav {
