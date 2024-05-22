@@ -55,6 +55,8 @@ nav .logo a:hover {
 
 nav {
     background-color: var(--extra-light);
+    position: relative;
+    left: 0;
 }
 
 nav .nav__content {
