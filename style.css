@@ -52,19 +52,18 @@ nav .logo a:hover {
     color: var(--primary-color-dark);
 }*/
 nav .nav__content {
-    padding: 40px 0 30px;
+    padding: 1.5rem 1rem;
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
     justify-content: space-between;
-    background: #ebeef1;
 }
 
 nav .logo i {
     height: 55px;
     width: 55px;
     background: var(--extra-light);
-    border: 2px soilid var(--secondary-color);
+    border: 2px soilid var(--primary-color-dark);
     color: var(--primary-color-dark);
     border-radius: 50%;
     display: inline-flex;
