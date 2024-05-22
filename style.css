@@ -62,7 +62,7 @@ nav .logo a:hover {
 .logo i {
     height: 55px;
     width: 55px;
-    background: transparent;
+    background: var(--extra-light);
     border: 2px soilid var(--secondary-color);
     color: var(--primary-color-dark);
     border-radius: 50%;
