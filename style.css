@@ -51,7 +51,7 @@ nav .logo a {
 nav .logo a:hover {
     color: var(--primary-color-dark);
 }*/
-.nav__content {
+nav .nav__content {
     padding: 40px 0 30px;
     display: flex;
     flex-wrap: nowrap;
@@ -59,7 +59,7 @@ nav .logo a:hover {
     justify-content: space-between;
 }
 
-.logo i {
+nav .logo i {
     height: 55px;
     width: 55px;
     background: var(--extra-light);
